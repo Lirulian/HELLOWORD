@@ -1,3 +1,6 @@
+import re
+import random'
+inport lib
 czCV
 c
 v 
